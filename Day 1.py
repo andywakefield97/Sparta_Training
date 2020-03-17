@@ -14,6 +14,8 @@ name = input()
 print('Hi')
 print(name)'''
 
+#*AGE/DOB/ADDRESS EXERCISE*
+
 # print('Hello, What is your full name?')
 # full_name = input()
 # print('hello ', full_name)
@@ -59,6 +61,8 @@ print(name)'''
 # else:
 #     print("{} is bigger".format(b))
 
+
+#*BIGGEST NUMBER EXERCISE*
 
 # a = input("Type a number")
 # b = input("Type another number")
