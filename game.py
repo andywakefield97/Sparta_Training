@@ -1,3 +1,6 @@
+#Passport Collecting game - Player has unlimited time to collect passports on a screen
+
+
 import arcade
 import random
 
