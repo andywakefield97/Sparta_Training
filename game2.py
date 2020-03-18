@@ -19,17 +19,17 @@ Player1 = input("Player 1 please enter your name")
 player_list.append(Player1)
 
 P2 = input('Is there another player? (Y/N)')
-if P2 == 'Y':
+if P2.upper() == 'Y':
     Player2 = input("Player 2 please enter your name")
     player_list.append(Player2)
 
     P3 = input('Is there another player? (Y/N)')
-    if P3 == 'Y':
+    if P3.upper() == 'Y':
         Player3 = input("Player 3 please enter your name")
         player_list.append(Player3)
 
         P4 = input('Is there another player? (Y/N)')
-        if P4 == 'Y':
+        if P4.upper() == 'Y':
             Player4 = input("Player 4 please enter your name")
             player_list.append(Player4)
 
