@@ -51,18 +51,18 @@
 from Day_3 import *
 #Inheritance is the mechanism in which one class acquires the property of another class.
 
-# class Person:
-#     def __init__(self, firstname, lastname):
-#         self.firstname = firstname
-#         self.lastname = lastname
-#
-#     def talk(self):
-#         Nickname = input ('What is your nickname?')
-#         return ('Hi my name is {}'.format(Nickname))
-#
-# person_1 = Person('Andrew', 'Wakefield')
-#
-# print(person_1.talk())
+class Person:
+    def __init__(self, firstname, lastname):
+        self.firstname = firstname
+        self.lastname = lastname
+
+    def talk(self):
+        Nickname = input ('What is your nickname?')
+        return ('Hi my name is {}'.format(Nickname))
+
+person_1 = Person('Andrew', 'Wakefield')
+
+print(person_1.talk())
 
 #Encapsulation is an object oreitned python program you can restrict access to methods and variables. Preventing data from being modified by accident
 
