@@ -1,9 +1,5 @@
-#Four Pillars of Object Oriented Programming
+Lessons and files from Sparta 8 week training course.
 
-## Objectives
+Files are not very well organised currently!
 
-####This lesson describes the definition and uses of four pillars
-######- Abstraction
-###### - Inheritance
-###### - Encapsulation
-###### - Polymorphism 
+Topics covered are basic Python concepts and OOP.
